@@ -20,3 +20,12 @@ Sou Miguel Ferreira, tenho **17 anos** e sou natural de Taubaté, São Paulo, Te
         />
     </a>
 </p>
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfzera&theme=github_dark_dimmed&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
